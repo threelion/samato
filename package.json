@@ -1,0 +1,19 @@
+{
+  "name": "test_be",
+  "version": "1.0.0",
+  "description": "Test Back End",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/threelion/samato.git"
+  },
+  "author": "Volodymyr Liebied",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/threelion/samato/issues"
+  },
+  "homepage": "https://github.com/threelion/samato#readme"
+}
